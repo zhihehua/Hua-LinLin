@@ -1,26 +1,26 @@
 # Hua 🐱
 
-一只治愈系的小猫 —— 送给林林的虚拟宠物 App。
+A healing little kitten — a virtual pet app made for LinLin 💌
 
-## 下载
+## Download
 
-打开 [Releases 页面](https://github.com/zhihehua/Hua-LinLin/releases/latest)，
-下载最新版的 `Hua_vX.X.apk` 即可。
+Head to the [Releases page](https://github.com/zhihehua/Hua-LinLin/releases/latest)
+and grab the latest `Hua_vX.X.apk`.
 
-## 安装
+## Install
 
-1. 把 APK 传到手机（或直接用手机浏览器打开上面的链接下载）
-2. 点击安装；如果系统提示"未知来源应用"，选择"允许"即可
-3. 打开 Hua，摸摸你的小猫吧～
+1. Move the APK to your phone (or just open the link above in your phone's browser)
+2. Tap to install — if your phone warns about "unknown sources", just tap **Allow**
+3. Open Hua and give your little cat some pets~
 
-## 玩法
+## How to play
 
-| 手势 | 反应 |
+| Gesture | Reaction |
 | --- | --- |
-| 单击头部 | 开心呼噜 |
-| 单击身体 | 好奇回应 |
-| 长按 | 趴下摆尾，撒娇循环 |
-| 左右滑动 | 追着你的手看 |
-| 双击 | 被吓一跳 |
+| Tap head | Happy purring |
+| Tap body | Curious little reply |
+| Long press | Lies down and wags her tail, snuggling loop |
+| Swipe left / right | Chases after your hand |
+| Double tap | Startled! Mrooow! |
 
-> 摸猫会增加 Energy，双击会消耗～
+> Petting her charges up Energy — double taps use it up~
