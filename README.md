@@ -4,6 +4,8 @@ A healing little kitten — a virtual pet app made for LinLin 💌
 
 I am currently still developing more features and gameplay. In future updates, I will improve the kitten’s modeling, voice, interactions, and more. Please look forward to my upcoming updates! HONEY!!!!!
 
+Of course, there will also be an iOS version installer available in future updates—please stay tuned!
+
 ## Download
 
 Head to the [Releases page](https://github.com/zhihehua/Hua-LinLin/releases/latest)
